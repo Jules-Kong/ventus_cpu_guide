@@ -7,8 +7,10 @@ ventus cpu的只需要
 * pocl : git clone -b dev_cpu https://github.com/THU-DSP-LAB/pocl.git   
 
 ### 构建和使用
-借鉴ventus教程 https://github.com/THU-DSP-LAB/llvm-project ；    
-注意，export POCL_DEVICES="basic" 即可；   
+  借鉴ventus教程 https://github.com/THU-DSP-LAB/llvm-project ；    
+  注意，export POCL_DEVICES="basic" 即可；   
+  ![image](https://github.com/Jules-Kong/ventus_cpu_guide/assets/32475045/aa78e780-6e76-4d96-9bd0-b58320eb4bcd)
+
 
 ### 测试套教程
 * cts   
